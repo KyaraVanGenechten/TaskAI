@@ -1,2 +1,2 @@
-streamlit==0.89.0
+streamlit
 simpleai==0.8.2
